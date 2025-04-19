@@ -81,4 +81,3 @@ MIT License – feel free to use, fork, or contribute!
 
 ---
 
-Let me know if you also want a nice project logo, screenshots, or badges added!
